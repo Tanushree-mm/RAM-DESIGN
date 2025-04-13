@@ -10,7 +10,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:This repository presents the development and simulation of a simple synchronous Random Access Memory (RAM) module using Verilog HDL. The module supports both read and write operations, controlled by clock-driven logic, and is designed for integration into digital systems such as processors, controllers, or custom logic architectures.
+*DESCRIPTION*:
+This repository presents the development and simulation of a simple synchronous Random Access Memory (RAM) module using Verilog HDL. The module supports both read and write operations, controlled by clock-driven logic, and is designed for integration into digital systems such as processors, controllers, or custom logic architectures.
 
 The design and verification processes were carried out using two leading industry-standard tools:
 
@@ -52,7 +53,7 @@ On the rising edge of the clock, the memory content at addr is assigned to outpu
 
 All operations are synchronous, meaning both read and write actions only take place on the positive clock edge, ensuring predictable and stable behavior in digital systems.
 
-🧪 Testbench
+ Testbench
 A Verilog testbench is included to:
 
 Simulate various read/write cycles
@@ -63,7 +64,7 @@ Observe correct memory behavior using waveform viewers (like GTKWave or Vivado S
 
 This helps verify the correct implementation and timing of the RAM under different conditions.
 
-📈 Learning Outcomes
+Learning Outcomes
 Through this project, the following digital design concepts are reinforced:
 
 Synchronous digital memory modeling
@@ -85,13 +86,17 @@ Create a testbench or schematic symbol for simulation
 
 Simulate using the ADE environment to visualize waveforms
 
-*CODE*:![Image](https://github.com/user-attachments/assets/2ba677d1-9d11-4d57-9962-3dea653e7940)
+*CODE*:
+
+![Image](https://github.com/user-attachments/assets/2ba677d1-9d11-4d57-9962-3dea653e7940)
 
 ![Image](https://github.com/user-attachments/assets/30132cc6-7525-4bf0-b097-77837297155b)
 
 
 
-*OUTPUT*: ![Image](https://github.com/user-attachments/assets/30c5408b-52e7-4f49-8a2c-840a595807f3)
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/30c5408b-52e7-4f49-8a2c-840a595807f3)
 
 ![Image](https://github.com/user-attachments/assets/c13179bf-6d88-4d25-aa04-aba01cb66bfa)
 
