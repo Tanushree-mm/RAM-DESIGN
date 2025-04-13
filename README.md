@@ -11,6 +11,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION*:
+
 This repository presents the development and simulation of a simple synchronous Random Access Memory (RAM) module using Verilog HDL. The module supports both read and write operations, controlled by clock-driven logic, and is designed for integration into digital systems such as processors, controllers, or custom logic architectures.
 
 The design and verification processes were carried out using two leading industry-standard tools:
