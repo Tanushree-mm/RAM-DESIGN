@@ -96,8 +96,10 @@ Simulate using the ADE environment to visualize waveforms
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/c13179bf-6d88-4d25-aa04-aba01cb66bfa)
+
 ![Image](https://github.com/user-attachments/assets/30c5408b-52e7-4f49-8a2c-840a595807f3)
 
-![Image](https://github.com/user-attachments/assets/c13179bf-6d88-4d25-aa04-aba01cb66bfa)
+
 
 
